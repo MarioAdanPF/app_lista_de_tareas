@@ -1,0 +1,18 @@
+{
+    "files": [
+        "mainwindow.py",
+        "main.ui",
+        "addTask.ui",
+        "addTask.py",
+        "tareaWidget.py",
+        "helpers.py",
+        "login.ui",
+        "login.py",
+        "register.ui",
+        "register.py",
+        "routes.py",
+        "tarea.ui",
+        "editTask.ui",
+        "editTask.py"
+    ]
+}
